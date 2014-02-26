@@ -429,7 +429,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#D1D100</string>
+				<string>#0000ff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1934,7 +1934,7 @@
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>semanticClass</key>
-	<string>theme.light.rails_casts</string>
+	<string>theme.light.redmond_color_scheme</string>
 	<key>author</key>
 	<string>Joe Fallon</string>
 	<key>comment</key>
